@@ -39,11 +39,8 @@ Personal-Profile/
 
 ## 📸 Preview
 
-Add a screenshot of your website here:
 
-```markdown
 ![My-Profile Preview](./MyProfile.png)
-```
 
 ## 📌 About the Project
 
