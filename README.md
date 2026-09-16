@@ -42,7 +42,7 @@ Personal-Profile/
 Add a screenshot of your website here:
 
 ```markdown
-![My-Profile](MyProfile.png)
+![My-Profile Preview](./MyProfile.png)
 ```
 
 ## 📌 About the Project
