@@ -20,8 +20,8 @@ A simple and clean personal profile website built using **HTML and CSS**. This p
 ```text
 Personal-Profile/
 │
-├── index.html
-├── style.css
+├── profile.html
+├── profile.css
 └── images
 ```
 
